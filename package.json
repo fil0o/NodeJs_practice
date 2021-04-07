@@ -1,0 +1,22 @@
+{
+  "name": "node-youtuve",
+  "version": "1.0.0",
+  "description": "Node js Course for youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Anufriev Philipp afdmki@ya.ru",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
